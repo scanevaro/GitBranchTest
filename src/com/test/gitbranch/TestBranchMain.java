@@ -8,7 +8,9 @@ public class TestBranchMain {
         new Thread(new Runnable() {
             @Override
             public void run() {
+                while(){
 
+                }
             }
         });
     }
